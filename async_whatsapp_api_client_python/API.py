@@ -1,7 +1,6 @@
-import asyncio
 import json
 import logging
-from typing import Any, NoReturn, Optional
+from typing import Any, Optional
 
 from httpx import AsyncClient, Response
 
