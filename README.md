@@ -46,10 +46,10 @@ async_green_api = AsyncGreenAPI(
 ```python
 response = await async_green_api.sending.send_message("USER_NUMBER@c.us", "Message text")
 
-print(await response.json())
+print(response.data)
 ```
 
-### All examples you can find [here](./examples)
+### All examples you can find [here](https://github.com/Dark04072006/async-whatsapp-api-client-python/tree/main/examples)
 
 ## The full list of the library methods
 
