@@ -24,7 +24,7 @@ pip install -i https://test.pypi.org/simple/ async-whatsapp-api-client-python
 ## Import
 
 ```python
-from async_whatsapp_api_client_python import API
+from async_whatsapp_api_client_python import AsyncGreenAPI
 ```
 
 ## Examples
@@ -32,9 +32,9 @@ from async_whatsapp_api_client_python import API
 ### How to initialize an object
 
 ```python
-from async_whatsapp_api_client_python import API
+from async_whatsapp_api_client_python import AsyncGreenAPI
 
-async_green_api = API.AsyncGreenApi(
+async_green_api = AsyncGreenAPI(
     "YOUR_ID_INSTANCE", "YOUR_API_TOKEN_INSTANCE"
 )
 ```

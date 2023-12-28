@@ -5,7 +5,7 @@ with open("README.md", encoding="UTF-8") as file:
 
 setup(
     name="async-whatsapp-api-client-python",
-    version="0.0.1",
+    version="0.0.3",
     description=(
         "This library helps you easily create"
         " a Python application with WhatsApp API."
@@ -41,5 +41,5 @@ setup(
         " (CC BY-ND 4.0)"
     ),
     install_requires=["httpx==0.26.0"],
-    python_requires=">=3.7"
+    python_requires=">=3.11"
 )
