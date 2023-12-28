@@ -9,8 +9,7 @@ your [personal cabinet](https://console.green-api.com/) to use the library. Ther
 Dear users,
 
 We apologize for any inconvenience, but currently, PyPI (Python Package Index) registration is temporarily disabled due
-to technical issues. This restriction has been imposed by PyPI, and we are working closely with their team to resolve
-this issue as soon as possible.
+to technical issues.
 
 **How it affects you:**
 
