@@ -6,8 +6,19 @@ your [personal cabinet](https://console.green-api.com/) to use the library. Ther
 
 ## Installation
 
+Dear users,
+
+We apologize for any inconvenience, but currently, PyPI (Python Package Index) registration is temporarily disabled due
+to technical issues. This restriction has been imposed by PyPI, and we are working closely with their team to resolve
+this issue as soon as possible.
+
+**How it affects you:**
+
+At the moment, you cannot install our project using the standard `pip install` command via PyPI. However, we have
+provided an alternative installation method through TestPyPI. You can install the project as follows:
+
 ```shell
-python -m pip install async-whatsapp-api-client-python
+pip install -i https://test.pypi.org/simple/ async-whatsapp-api-client-python
 ```
 
 ## Import
