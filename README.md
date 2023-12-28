@@ -17,7 +17,7 @@ At the moment, you cannot install our project using the standard `pip install` c
 provided an alternative installation method through TestPyPI. You can install the project as follows:
 
 ```shell
-pip install -i https://test.pypi.org/simple/ async-whatsapp-api-client-python
+pip install --extra-index-url https://testpypi.python.org/pypi async-whatsapp-api-client-python
 ```
 
 ## Import
